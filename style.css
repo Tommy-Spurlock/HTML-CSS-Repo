@@ -1,0 +1,24 @@
+header {
+    width: 100vw;
+    height: 100vh;
+}
+h1, h2, h3 {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+h1 {
+    font-size: 2em;
+}
+aside {
+    width: 35vw;
+}
+body {
+    background-color: #f4c20c;    
+}
+footer {
+    text-align: center;
+}
+.top {
+    background: #f4c20c 
+    url(https://i.gifer.com/VdLN.gif) no-repeat center;
+}
